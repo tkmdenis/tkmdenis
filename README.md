@@ -1,4 +1,4 @@
-# Who aM I? 
+# Who am I? 
 
 ## Hello everyone and welcome to my world
 
